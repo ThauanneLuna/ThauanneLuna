@@ -3,6 +3,7 @@
 # 👩‍💻 Thauanne Luna
 
 🎨 **UX/UI Designer & Front-End em formação**
+
 💡 Transformando ideias em experiências digitais intuitivas e visuais
 
 ---
