@@ -1,22 +1,27 @@
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Thauanne%20Luna&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+
+<div align="center">
 
 # 👩‍💻 Thauanne Luna
 
-🎨 **UX/UI Designer & Front-End em formação**
+🎨 **Designer Gráfica em formação**
 
 💡 Transformando ideias em experiências digitais intuitivas e visuais
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Informática no Ensino Médio Técnico** e estou construindo minha carreira em **UX/UI Design, Design Gráfico e Desenvolvimento Web**.
+Sou estudante de **Informática no Ensino Médio Técnico** e estou construindo minha carreira em **Design Gráfico, Branding e Experiência Visual**.
 
 Tenho experiência prática com:
 
 * Criação de interfaces
-* Desenvolvimento web (HTML, CSS, JavaScript)
 * Identidade visual e branding
+* Design visual para redes sociais
+* Estética moderna e delicada
 
 💡 Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir profissionalmente.
 
@@ -24,84 +29,87 @@ Tenho experiência prática com:
 
 ## 🧠 Mentalidade
 
-✔️ Aprendizado constante
-✔️ Atenção aos detalhes
-✔️ Organização
-✔️ Pensamento analítico
-✔️ Criatividade aplicada à solução
+✔️ Aprendizado constante  
+✔️ Atenção aos detalhes  
+✔️ Organização  
+✔️ Pensamento analítico  
+✔️ Criatividade aplicada à solução  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🎨 Design & UX
+### 🎨 Design & Branding
 
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma)
-![UX](https://img.shields.io/badge/UX%20Design-ff69b4?style=for-the-badge)
-![UI](https://img.shields.io/badge/UI%20Design-9cf?style=for-the-badge)
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=canva&logoColor=white)
+![Branding](https://img.shields.io/badge/Branding-dc84f3?style=for-the-badge)
+![Design](https://img.shields.io/badge/Design%20Gráfico-f8bbd0?style=for-the-badge)
+
+</div>
+
+### 🌸 Conhecimentos
 
 * Design de interface (Figma)
-* UX Design (pesquisa, usabilidade e testes)
+* Identidade visual e branding
 * Wireframes e prototipação
 * Design centrado no usuário
-
----
-
-### 💻 Desenvolvimento
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-* Estruturação e estilização de páginas
-* Criação de interfaces responsivas
+* Moodboards e estética visual
+* Criação de interfaces modernas
+* Estética feminina e elegante
 
 ---
 
 ### ⚙️ Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+<div align="center">
 
-* Versionamento de código
-* Organização de projetos
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+</div>
+
+* Organização de projetos  
+* Versionamento de arquivos  
 
 ---
 
 ## 📌 Projetos em destaque
 
-✨ **Intense Elegance**
+✨ **Intense Elegance**  
 Site de moda com foco em design e responsividade
 
-📚 **StudyMate**
+📚 **StudyMate**  
 Plataforma de estudos com foco em organização e experiência do usuário
 
-🛍️ **ThauLuna Acessórios**
+🛍️ **ThauLuna Acessórios**  
 Criação de identidade visual e branding de loja
 
 ---
 
 ## 📚 Formação
 
-🎓 Ensino Médio + Técnico em Informática
-📍 EEEP Professora Luiza de Teodoro Vieira
-📅 Conclusão: 2026
+🎓 Ensino Médio + Técnico em Informática  
+📍 EEEP Professora Luiza de Teodoro Vieira  
+📅 Conclusão: 2026  
 
 ---
 
 ## 📜 Certificados
 
-* Fundamentos em Design Gráfico — Fundação Bradesco
-* Desenvolvimento Pessoal — Fundação Bradesco
-* Comunicação Empresarial — Fundação Bradesco
-* Fábrica de Programadores — UANE
+* Fundamentos em Design Gráfico — Fundação Bradesco  
+* Desenvolvimento Pessoal — Fundação Bradesco  
+* Comunicação Empresarial — Fundação Bradesco  
+* Fábrica de Programadores — UANE  
 
 ---
 
 ## 🌍 Idiomas
 
-🇺🇸 Inglês — Em andamento
-🇪🇸 Espanhol — Básico
+🇺🇸 Inglês — Em andamento  
+🇪🇸 Espanhol — Básico  
 
 ---
 
@@ -109,34 +117,65 @@ Criação de identidade visual e branding de loja
 
 Atuação como **recepcionista voluntária** em eventos escolares (FEPROTEC e FEPROCIC), desenvolvendo:
 
-* Atendimento ao público
-* Organização
-* Trabalho em equipe
-* Responsabilidade
+* Atendimento ao público  
+* Organização  
+* Trabalho em equipe  
+* Responsabilidade  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanneluna&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-<div> 
-  <a href="mailto:luna.thauannedesign@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://ThauanneLuna.github.io/PortflioThauanne/">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/thauanneluna-designer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="center"> 
+
+<a href="mailto:luna.thauannedesign@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://ThauanneLuna.github.io/PortflioThauanne/">
+<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/thauanneluna-designer/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
+
 ---
 
 ## ✨ Objetivo
 
-Crescer como **UX/UI Designer e Desenvolvedora Front-End**, criando experiências digitais simples, bonitas e funcionais.
+Crescer como **Designer Gráfica**, criando experiências visuais bonitas, modernas e funcionais.
 
 ---
+
+<div align="center">
 
 ⭐ Obrigada por visitar meu perfil!
 
+</div>
+
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,30,33"/>
+
+### © 2026 Thauanne Luna
+
+💗 Todos os direitos reservados.
+
+</div>
