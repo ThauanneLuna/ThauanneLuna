@@ -1,11 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Thauanne%20Luna&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
-
 <div align="center">
 
-# 👩‍💻 Thauanne Luna
+<div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
 
-🎨 **Designer Gráfica em formação**
+<img src="logo-tl.png" width="80px">
 
+<h1>Thauanne Luna</h1>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+
+🎨 Designer Gráfica em formação  
 💡 Transformando ideias em experiências digitais intuitivas e visuais
 
 </div>
@@ -18,10 +23,10 @@ Sou estudante de **Informática no Ensino Médio Técnico** e estou construindo 
 
 Tenho experiência prática com:
 
-* Criação de interfaces
-* Identidade visual e branding
-* Design visual para redes sociais
-* Estética moderna e delicada
+- Criação de interfaces
+- Identidade visual e branding
+- Design para redes sociais
+- Prototipação e UI Design
 
 💡 Busco minha primeira oportunidade para aplicar meus conhecimentos e evoluir profissionalmente.
 
@@ -29,11 +34,11 @@ Tenho experiência prática com:
 
 ## 🧠 Mentalidade
 
-✔️ Aprendizado constante  
-✔️ Atenção aos detalhes  
-✔️ Organização  
-✔️ Pensamento analítico  
-✔️ Criatividade aplicada à solução  
+- Aprendizado constante  
+- Atenção aos detalhes  
+- Organização  
+- Pensamento analítico  
+- Criatividade aplicada à solução  
 
 ---
 
@@ -50,16 +55,6 @@ Tenho experiência prática com:
 
 </div>
 
-### 🌸 Conhecimentos
-
-* Design de interface (Figma)
-* Identidade visual e branding
-* Wireframes e prototipação
-* Design centrado no usuário
-* Moodboards e estética visual
-* Criação de interfaces modernas
-* Estética feminina e elegante
-
 ---
 
 ### ⚙️ Ferramentas
@@ -71,21 +66,18 @@ Tenho experiência prática com:
 
 </div>
 
-* Organização de projetos  
-* Versionamento de arquivos  
-
 ---
 
 ## 📌 Projetos em destaque
 
-✨ **Intense Elegance**  
-Site de moda com foco em design e responsividade
+### ✨ Intense Elegance
+Site de moda com foco em design e responsividade.
 
-📚 **StudyMate**  
-Plataforma de estudos com foco em organização e experiência do usuário
+### 📚 StudyMate
+Plataforma de estudos com foco em organização e UX.
 
-🛍️ **ThauLuna Acessórios**  
-Criação de identidade visual e branding de loja
+### 🛍️ Thau Luna Acessórios
+Identidade visual e branding de loja própria.
 
 ---
 
@@ -99,10 +91,10 @@ Criação de identidade visual e branding de loja
 
 ## 📜 Certificados
 
-* Fundamentos em Design Gráfico — Fundação Bradesco  
-* Desenvolvimento Pessoal — Fundação Bradesco  
-* Comunicação Empresarial — Fundação Bradesco  
-* Fábrica de Programadores — UANE  
+- Fundamentos em Design Gráfico — Fundação Bradesco  
+- Desenvolvimento Pessoal — Fundação Bradesco  
+- Comunicação Empresarial — Fundação Bradesco  
+- Fábrica de Programadores — UANE  
 
 ---
 
@@ -115,12 +107,12 @@ Criação de identidade visual e branding de loja
 
 ## 🤝 Experiência
 
-Atuação como **recepcionista voluntária** em eventos escolares (FEPROTEC e FEPROCIC), desenvolvendo:
+Atuação como recepcionista voluntária em eventos escolares (FEPROTEC e FEPROCIC), com foco em:
 
-* Atendimento ao público  
-* Organização  
-* Trabalho em equipe  
-* Responsabilidade  
+- Atendimento ao público  
+- Organização  
+- Trabalho em equipe  
+- Responsabilidade  
 
 ---
 
@@ -138,7 +130,7 @@ Atuação como **recepcionista voluntária** em eventos escolares (FEPROTEC e FE
 
 ## 📫 Contato
 
-<div align="center"> 
+<div align="center">
 
 <a href="mailto:luna.thauannedesign@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -158,15 +150,7 @@ Atuação como **recepcionista voluntária** em eventos escolares (FEPROTEC e FE
 
 ## ✨ Objetivo
 
-Crescer como **Designer Gráfica**, criando experiências visuais bonitas, modernas e funcionais.
-
----
-
-<div align="center">
-
-⭐ Obrigada por visitar meu perfil!
-
-</div>
+Crescer como Designer Gráfica, criando experiências visuais bonitas, modernas e funcionais.
 
 ---
 
