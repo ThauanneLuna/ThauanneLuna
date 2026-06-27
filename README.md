@@ -1,14 +1,11 @@
 <div align="center">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 12px;">
-
-<img src="logo-tl.png" width="80px">
-
-<h1>Thauanne Luna</h1>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<table>
+  <tr>
+    <td><img src="logo-tl.png" width="80px"></td>
+    <td><h1>Thauanne Luna</h1></td>
+  </tr>
+</table>
 
 🎨 Designer Gráfica em formação  
 💡 Transformando ideias em experiências digitais intuitivas e visuais
