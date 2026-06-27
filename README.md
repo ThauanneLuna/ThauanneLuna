@@ -1,11 +1,12 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="logo-tl.png" width="80px"></td>
-    <td><h1>Thauanne Luna</h1></td>
-  </tr>
-</table>
+<img src="logo-tl.png" width="100px">
+
+<br>
+
+<h1 style="font-family: Arial, sans-serif; font-weight: 600; letter-spacing: 1px;">
+Thauanne Luna
+</h1>
 
 🎨 Designer Gráfica em formação  
 💡 Transformando ideias em experiências digitais intuitivas e visuais
