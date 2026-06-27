@@ -2,7 +2,7 @@
 
 <img src="logo-tl.png" width="100px">
 
-# Thauanne Luna
+# 👩🏻‍💻 Thauanne Luna
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
