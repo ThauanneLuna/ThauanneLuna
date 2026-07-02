@@ -6,10 +6,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
-🎨 Designer Gráfica em formação  
-💻 Desenvolvedora Front-end
+### 🎨 Designer Gráfica em formação
+### 💻 Desenvolvedora Front-end
 
-✨ Apaixonada por design, desenvolvimento web e criação de projetos que unem criatividade, identidade e funcionalidade.
+✨ Criando marcas, produtos e experiências digitais que unem criatividade, estratégia e funcionalidade.
 
 </div>
 
@@ -17,14 +17,14 @@
 
 # 🚀 Sobre mim
 
-Sou estudante de **Ensino Médio Técnico em Informática** e fundadora da **Thau Luna Studio**.
+Olá! Eu sou a **Thauanne Luna**, estudante do **Ensino Médio Técnico em Informática** e fundadora da **Thau Luna Studio**.
 
-Gosto de transformar ideias em experiências visuais, desenvolvendo desde identidades visuais até sites, landing pages e produtos personalizados.
+Sou apaixonada por design, desenvolvimento web e criação de experiências visuais. Gosto de transformar ideias em projetos que unem criatividade, identidade e funcionalidade.
 
-Atualmente meus principais focos são:
+Atualmente desenvolvo projetos envolvendo:
 
 - 🎨 Design Gráfico
-- 💎 Branding e Identidade Visual
+- 💎 Identidade Visual e Branding
 - 🌐 Desenvolvimento Web
 - 📱 UI Design
 - 💡 UX Design
@@ -38,16 +38,28 @@ Atualmente meus principais focos são:
 - 🎯 Atenção aos detalhes
 - 💡 Criatividade aplicada
 - 🧩 Pensamento analítico
+- 🤝 Organização
 - 🚀 Evolução contínua
 
 ---
 
 # 🛠️ Tecnologias & Ferramentas
 
+## 🎨 Design
+
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Desenvolvimento
+
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,17 +72,50 @@ Atualmente meus principais focos são:
 
 # 📌 Projetos
 
-### 🌸 Thau Luna Studio
+## 🌸 Thau Luna Studio
 
-Marca autoral que reúne **produtos personalizados** e **serviços criativos**, oferecendo acessórios exclusivos, identidade visual, design gráfico, landing pages, sites e soluções digitais.
+Marca autoral que reúne **produtos personalizados** e **serviços criativos**, desenvolvendo soluções físicas e digitais.
 
-### 📖 O Depois de Nós
+### 🛍️ Produtos Personalizados
 
-Projeto autoral de romance, envolvendo escrita, construção de personagens, identidade visual, direção criativa e desenvolvimento da presença digital da obra.
+- ✨ Pulseiras Personalizadas
+- 🔑 Chaveiros Personalizados
+- 📸 Polaroids
+- 🎁 Box Surprise | Encantarte
 
-### 🐺 Teen Wolf
+### 💻 Serviços Criativos
 
-Projeto conceitual inspirado na série, utilizado para estudos de UI/UX, interfaces modernas, branding e desenvolvimento front-end.
+- 🎨 Identidade Visual
+- 🖌️ Design Gráfico
+- 🌐 Desenvolvimento de Sites
+- 🚀 Landing Pages
+- 📱 Artes para Redes Sociais
+- 📄 Materiais Digitais Personalizados
+
+---
+
+## 📖 O Depois de Nós
+
+Projeto autoral de romance que envolve:
+
+- Escrita criativa
+- Construção de personagens
+- Desenvolvimento de universo
+- Identidade visual
+- Direção criativa
+- Desenvolvimento da presença digital da obra
+
+---
+
+## 🐺 Teen Wolf
+
+Projeto conceitual inspirado na série para estudos de:
+
+- UI/UX
+- Interfaces modernas
+- Branding
+- Front-end
+- Design Visual
 
 ---
 
@@ -80,24 +125,41 @@ Projeto conceitual inspirado na série, utilizado para estudos de UI/UX, interfa
 
 📍 EEEP Professora Luiza de Teodoro Vieira
 
-📅 Conclusão: **2026**
+📅 Conclusão prevista: **2026**
 
 ---
 
 # 📜 Certificados
 
-- Fundamentos em Design Gráfico — Fundação Bradesco
-- Desenvolvimento Pessoal — Fundação Bradesco
-- Comunicação Empresarial — Fundação Bradesco
-- Fábrica de Programadores — UANE
+- 📄 Fundamentos em Design Gráfico — Fundação Bradesco
+- 📄 Desenvolvimento Pessoal — Fundação Bradesco
+- 📄 Comunicação Empresarial — Fundação Bradesco
+- 📄 Marketing Digital: Estratégias e Práticas para o Consumidor — Fundação Getulio Vargas (FGV)
+- 📄 Atendimento ao Cliente — Fundação Getulio Vargas (FGV)
+- 📄 Fábrica de Programadores — UANE
 
 ---
 
 # 🌍 Idiomas
 
-🇺🇸 Inglês — Em desenvolvimento
+- 🇺🇸 Inglês — Em desenvolvimento
+- 🇪🇸 Espanhol — Básico
 
-🇪🇸 Espanhol — Básico
+---
+
+# 🤝 Experiência
+
+### Recepcionista Voluntária
+
+**FEPROTEC** e **FEPROCIC**
+
+Atividades desenvolvidas:
+
+- Atendimento ao público
+- Organização de eventos
+- Trabalho em equipe
+- Comunicação
+- Responsabilidade
 
 ---
 
@@ -133,12 +195,20 @@ Projeto conceitual inspirado na série, utilizado para estudos de UI/UX, interfa
 
 ---
 
+# ✨ Objetivo
+
+Continuar evoluindo como Designer Gráfica e Desenvolvedora Front-end, criando marcas, interfaces, produtos personalizados e experiências digitais que unam criatividade, estratégia e usabilidade.
+
+---
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,30,33"/>
 
-### 💗 Obrigada pela visita!
+### © 2026 Thauanne Luna
 
-Sempre aprendendo, criando e transformando ideias em projetos.
+💗 Obrigada pela visita!
+
+<sub>Feito com dedicação e criatividade.</sub>
 
 </div>
