@@ -134,8 +134,8 @@ Projeto conceitual inspirado na série para estudos de:
 - 📄 Fundamentos em Design Gráfico — Fundação Bradesco
 - 📄 Desenvolvimento Pessoal — Fundação Bradesco
 - 📄 Comunicação Empresarial — Fundação Bradesco
-- 📄 Marketing Digital: Estratégias e Práticas para o Consumidor — Fundação Getulio Vargas (FGV)
-- 📄 Atendimento ao Cliente — Fundação Getulio Vargas (FGV)
+- 📄 Marketing Digital: Estratégias e Práticas para o Consumidor — SEBRAE
+- 📄 Atendimento ao Cliente — SEBRAE
 - 📄 Fábrica de Programadores — UANE
 
 ---
