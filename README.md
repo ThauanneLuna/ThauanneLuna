@@ -6,10 +6,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
-### 🎨 Designer Gráfica em formação
-### 💻 Desenvolvedora Front-end iniciante
+🎨 Designer Gráfica em formação  
+💻 Desenvolvedora Front-end
 
-✨ Criando marcas, interfaces e experiências digitais que unem criatividade, estratégia e funcionalidade.
+✨ Apaixonada por design, desenvolvimento web e criação de projetos que unem criatividade, identidade e funcionalidade.
 
 </div>
 
@@ -17,17 +17,18 @@
 
 # 🚀 Sobre mim
 
-Sou estudante de **Ensino Médio Técnico em Informática** e apaixonada por transformar ideias em experiências visuais.
+Sou estudante de **Ensino Médio Técnico em Informática** e fundadora da **Thau Luna Studio**.
 
-Atualmente desenvolvo projetos envolvendo:
+Gosto de transformar ideias em experiências visuais, desenvolvendo desde identidades visuais até sites, landing pages e produtos personalizados.
+
+Atualmente meus principais focos são:
 
 - 🎨 Design Gráfico
-- 💎 Identidade Visual e Branding
+- 💎 Branding e Identidade Visual
 - 🌐 Desenvolvimento Web
-- 📱 Interfaces (UI)
-- 💡 Experiência do Usuário (UX)
-
-Além dos estudos, desenvolvo projetos autorais e trabalho na **Thau Luna Studio**, criando soluções criativas para pessoas e pequenas marcas.
+- 📱 UI Design
+- 💡 UX Design
+- 🛍️ Produtos Personalizados
 
 ---
 
@@ -35,32 +36,18 @@ Além dos estudos, desenvolvo projetos autorais e trabalho na **Thau Luna Studio
 
 - 📚 Aprendizado constante
 - 🎯 Atenção aos detalhes
+- 💡 Criatividade aplicada
 - 🧩 Pensamento analítico
-- ✨ Criatividade aplicada à solução
-- 🤝 Trabalho em equipe
 - 🚀 Evolução contínua
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
-
-## 🎨 Design
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=canva&logoColor=white)
-![Branding](https://img.shields.io/badge/Branding-dc84f3?style=for-the-badge)
-![Design Gráfico](https://img.shields.io/badge/Design%20Gráfico-f8bbd0?style=for-the-badge)
-
-</div>
-
----
-
-## 💻 Desenvolvimento
-
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,23 +58,19 @@ Além dos estudos, desenvolvo projetos autorais e trabalho na **Thau Luna Studio
 
 ---
 
-# 📌 Projetos em destaque
+# 📌 Projetos
 
-## 🌐 Thau Luna Studio
+### 🌸 Thau Luna Studio
 
-Marca autoral focada em Design Gráfico, Branding, Landing Pages, Sites e experiências digitais para pequenos negócios.
+Marca autoral que reúne **produtos personalizados** e **serviços criativos**, oferecendo acessórios exclusivos, identidade visual, design gráfico, landing pages, sites e soluções digitais.
 
----
+### 📖 O Depois de Nós
 
-## 📖 O Depois de Nós
+Projeto autoral de romance, envolvendo escrita, construção de personagens, identidade visual, direção criativa e desenvolvimento da presença digital da obra.
 
-Projeto autoral que reúne escrita, identidade visual, construção de personagens, direção criativa e desenvolvimento da presença digital da obra.
+### 🐺 Teen Wolf
 
----
-
-## 🐺 Teen Wolf
-
-Projeto conceitual desenvolvido para estudos de UI/UX, interfaces modernas e design inspirado no universo da série.
+Projeto conceitual inspirado na série, utilizado para estudos de UI/UX, interfaces modernas, branding e desenvolvimento front-end.
 
 ---
 
@@ -97,7 +80,7 @@ Projeto conceitual desenvolvido para estudos de UI/UX, interfaces modernas e des
 
 📍 EEEP Professora Luiza de Teodoro Vieira
 
-📅 Conclusão prevista: **2026**
+📅 Conclusão: **2026**
 
 ---
 
@@ -110,27 +93,11 @@ Projeto conceitual desenvolvido para estudos de UI/UX, interfaces modernas e des
 
 ---
 
-# 🌎 Idiomas
+# 🌍 Idiomas
 
 🇺🇸 Inglês — Em desenvolvimento
 
 🇪🇸 Espanhol — Básico
-
----
-
-# 🤝 Experiência
-
-### Recepcionista voluntária
-
-Eventos escolares (FEPROTEC e FEPROCIC)
-
-Atividades desenvolvidas:
-
-- Atendimento ao público
-- Organização de eventos
-- Trabalho em equipe
-- Comunicação
-- Responsabilidade
 
 ---
 
@@ -166,18 +133,12 @@ Atividades desenvolvidas:
 
 ---
 
-# ✨ Objetivo
-
-Construir uma carreira como Designer Gráfica e Desenvolvedora Front-end, criando identidades visuais, interfaces e experiências digitais que unam criatividade, estratégia e usabilidade.
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,30,33"/>
 
-### © 2026 Thauanne Luna
+### 💗 Obrigada pela visita!
 
-💗 Feito com dedicação, criatividade e muito café.
+Sempre aprendendo, criando e transformando ideias em projetos.
 
 </div>
