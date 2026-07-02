@@ -119,59 +119,10 @@ Projeto conceitual inspirado na série para estudos de:
 
 ---
 
-# 📚 Formação
-
-🎓 Ensino Médio + Técnico em Informática
-
-📍 EEEP Professora Luiza de Teodoro Vieira
-
-📅 Conclusão prevista: **2026**
-
----
-
-# 📜 Certificados
-
-- 📄 Fundamentos em Design Gráfico — Fundação Bradesco
-- 📄 Desenvolvimento Pessoal — Fundação Bradesco
-- 📄 Comunicação Empresarial — Fundação Bradesco
-- 📄 Marketing Digital: Estratégias e Práticas para o Consumidor — SEBRAE
-- 📄 Atendimento ao Cliente — SEBRAE
-- 📄 Fábrica de Programadores — UANE
-
----
-
 # 🌍 Idiomas
 
 - 🇺🇸 Inglês — Em desenvolvimento
 - 🇪🇸 Espanhol — Básico
-
----
-
-# 🤝 Experiência
-
-### Recepcionista Voluntária
-
-**FEPROTEC** e **FEPROCIC**
-
-Atividades desenvolvidas:
-
-- Atendimento ao público
-- Organização de eventos
-- Trabalho em equipe
-- Comunicação
-- Responsabilidade
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanneluna&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</div>
 
 ---
 
