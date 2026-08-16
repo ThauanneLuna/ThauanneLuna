@@ -106,10 +106,6 @@ Projeto conceitual inspirado na série para estudos e experimentações envolven
 
 ---
 
-📊 Estatísticas do GitHub
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=E9A8C9&icon_color=E9A8C9&text_color=FFFFFF"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanneluna&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=E9A8C9&text_color=FFFFFF"/></div>---
-
 🔥 GitHub Streak
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=thauanneluna&theme=transparent&hide_border=true&ring=E9A8C9&fire=E9A8C9&currStreakLabel=E9A8C9&sideLabels=FFFFFF&dates=AAAAAA"/></div>---
@@ -117,14 +113,6 @@ Projeto conceitual inspirado na série para estudos e experimentações envolven
 📈 Activity
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thauanneluna&bg_color=00000000&color=E9A8C9&line=E9A8C9&point=FFFFFF&area=true&hide_border=true" width="100%"/></div>---
-
-🏆 Troféus do GitHub
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thauanneluna&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1"/></div>---
-
-🐍 Contribuições
-
-<div align="center"><img src="https://raw.githubusercontent.com/thauanneluna/thauanneluna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
 
 🌍 Idiomas
 
