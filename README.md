@@ -1,165 +1,150 @@
-<div align="center">
+<div align="center"><img src="logo-tl.png" width="110">"THAUANNE LUNA"
 
-<img src="logo-tl.png" width="110px">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=F5B7D2&center=true&vCenter=true&width=700&lines=Graphic+Designer+%7C+Front-end+Developer;Creative+Mind+%7C+Technical+Vision;Building+Digital+Experiences;Welcome+to+my+digital+workspace." alt="Typing Animation"><br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=24,30,33&section=header&text=SYSTEM%20ONLINE&fontColor=ffffff&fontSize=42&animation=fadeIn"></div>---
 
-# 👩🏻‍💻 Thauanne Luna
+"> SYSTEM INITIALIZATION"
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=24,30,33&section=header&text=Designer%20Gráfica&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+╔══════════════════════════════════════════════════════╗
+║              THAUANNE LUNA // SYSTEM                ║
+╠══════════════════════════════════════════════════════╣
+║ STATUS       :: ONLINE                               ║
+║ ROLE         :: GRAPHIC DESIGNER / FRONT-END        ║
+║ CORE         :: CREATIVITY + TECHNOLOGY              ║
+║ LOCATION     :: BRAZIL                               ║
+║ MODE         :: BUILD / LEARN / CREATE               ║
+╚══════════════════════════════════════════════════════╝
 
-### 🎨 Designer Gráfica em formação
-### 💻 Desenvolvedora Front-end
+[████████████████████████████████] 100%
 
-✨ Criando marcas, produtos e experiências digitais que unem criatividade, estratégia e funcionalidade.
-
-</div>
-
----
-
-# 🚀 Sobre mim
-
-Olá! Eu sou a **Thauanne Luna**, estudante do **Ensino Médio Técnico em Informática** e fundadora da **Thau Luna Studio**.
-
-Sou apaixonada por design, desenvolvimento web e criação de experiências visuais. Gosto de transformar ideias em projetos que unem criatividade, identidade e funcionalidade.
-
-Atualmente desenvolvo projetos envolvendo:
-
-- 🎨 Design Gráfico
-- 💎 Identidade Visual e Branding
-- 🌐 Desenvolvimento Web
-- 📱 UI Design
-- 💡 UX Design
-- 🛍️ Produtos Personalizados
+> Initializing creative engine...
+> Loading design modules...
+> Loading development stack...
+> Connecting ideas...
+> System ready.
 
 ---
 
-# 🧠 Mentalidade
+"01 // ABOUT ME"
 
-- 📚 Aprendizado constante
-- 🎯 Atenção aos detalhes
-- 💡 Criatividade aplicada
-- 🧩 Pensamento analítico
-- 🤝 Organização
-- 🚀 Evolução contínua
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&hide_border=true&theme=transparent&title_color=F5B7D2&icon_color=F5B7D2&text_color=FFFFFF">Olá! Eu sou Thauanne Luna, estudante de Informática e fundadora da Thau Luna Studio.
 
----
+Minha área está na interseção entre design, tecnologia e criatividade.
 
-# 🛠️ Tecnologias & Ferramentas
+Gosto de transformar ideias em projetos visuais e digitais que tenham não apenas uma boa aparência, mas também estrutura, propósito e funcionalidade.
 
-## 🎨 Design
+DESIGN      → identidade, composição, direção visual
+DEVELOPMENT → interfaces, websites, experiências digitais
+CREATIVITY  → conceitos, produtos e projetos autorais
+STRATEGY    → transformar ideias em soluções
 
-<div align="center">
+<br clear="right"/>---
 
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-ff69b4?style=for-the-badge&logo=canva&logoColor=white)
+"02 // TECH STACK"
 
-</div>
+"FRONT-END"
 
----
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" /></p>"DESIGN"
 
-## 💻 Desenvolvimento
+<p align="left"><img src="https://skillicons.dev/icons?i=figma,ps,ai" /></p>"TOOLS & WORKFLOW"
 
-<div align="center">
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,notion" /></p>---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+"03 // TOOLKIT"
 
-</div>
-
----
-
-# 📌 Projetos
-
-## 🌸 Thau Luna Studio
-
-Marca autoral que reúne **produtos personalizados** e **serviços criativos**, desenvolvendo soluções físicas e digitais.
-
-### 🛍️ Produtos Personalizados
-
-- ✨ Pulseiras Personalizadas
-- 🔑 Chaveiros Personalizados
-- 📸 Polaroids
-- 🎁 Box Surprise | Encantarte
-
-### 💻 Serviços Criativos
-
-- 🎨 Identidade Visual
-- 🖌️ Design Gráfico
-- 🌐 Desenvolvimento de Sites
-- 🚀 Landing Pages
-- 📱 Artes para Redes Sociais
-- 📄 Materiais Digitais Personalizados
+Área| Ferramentas
+🎨 Design| Figma · Canva · Adobe
+💻 Development| HTML · CSS · JavaScript · TypeScript
+⚛️ Front-end| React · Vite · Tailwind CSS
+🔧 Version Control| Git · GitHub
+🧠 Organization| Notion · GitHub Projects
+🌐 Deployment| Vercel · GitHub Pages
 
 ---
 
-## 📖 O Depois de Nós
+"04 // PROJECT DATABASE"
 
-Projeto autoral de romance que envolve:
+<div align="center"><table>
+<tr><td width="50%" valign="top">🌸 THAU LUNA STUDIO
 
-- Escrita criativa
-- Construção de personagens
-- Desenvolvimento de universo
-- Identidade visual
-- Direção criativa
-- Desenvolvimento da presença digital da obra
+Marca autoral que combina produtos personalizados, design e serviços digitais.
 
----
+CORE
 
-## 🐺 Teen Wolf
+"Branding" "Design" "Web" "Creative Business"
 
-Projeto conceitual inspirado na série para estudos de:
+</td><td width="50%" valign="top">💰 LUNA FINANCE
 
-- UI/UX
-- Interfaces modernas
-- Branding
-- Front-end
-- Design Visual
+Projeto de aplicação voltado para organização financeira e gestão, com foco em uma experiência simples e moderna.
 
----
+CORE
 
-# 🌍 Idiomas
+"React" "TypeScript" "Supabase" "Finance"
 
-- 🇺🇸 Inglês — Em desenvolvimento
-- 🇪🇸 Espanhol — Básico
+</td></tr><tr><td width="50%" valign="top">📖 DEPOIS DE NÓS
 
----
+Projeto autoral de escrita e construção de universo narrativo.
 
-# 📫 Contato
+CORE
 
-<div align="center">
+"Writing" "Storytelling" "Creative Direction"
 
-<a href="mailto:luna.thauannedesign@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</td><td width="50%" valign="top">🖥️ DIGITAL EXPERIENCES
 
-<a href="https://thauanneluna.github.io/PortflioThauanne/">
-<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+Projetos experimentais para explorar UI, UX, interfaces e desenvolvimento front-end.
 
-<a href="https://www.linkedin.com/in/thauanneluna-designer/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+CORE
 
-</div>
+"UI/UX" "Front-end" "Interaction"
 
----
+</td></tr>
+</table></div>---
 
-# ✨ Objetivo
+"05 // CURRENT OBJECTIVES"
 
-Continuar evoluindo como Designer Gráfica e Desenvolvedora Front-end, criando marcas, interfaces, produtos personalizados e experiências digitais que unam criatividade, estratégia e usabilidade.
+$ thauanne --current-mission
+
+> [01] Evoluir como Front-end Developer
+> [02] Aprofundar conhecimentos em UI/UX
+> [03] Desenvolver projetos reais
+> [04] Expandir a Thau Luna Studio
+> [05] Construir um portfólio sólido
+> [06] Aprender novas tecnologias
+> [07] Criar experiências digitais melhores
+
+STATUS: IN PROGRESS ███████████████████░░
 
 ---
 
-<div align="center">
+"06 // GITHUB ANALYTICS"
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,30,33"/>
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=F5B7D2&icon_color=F5B7D2&text_color=FFFFFF"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanneluna&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=F5B7D2&text_color=FFFFFF"></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=thauanneluna&theme=transparent&hide_border=true&ring=F5B7D2&fire=F5B7D2&currStreakLabel=F5B7D2&sideLabels=FFFFFF&dates=AAAAAA"></div>---
 
-### © 2026 Thauanne Luna
+"07 // CONTRIBUTION MATRIX"
 
-💗 Obrigada pela visita!
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thauanneluna&bg_color=00000000&color=F5B7D2&line=F5B7D2&point=FFFFFF&area=true&hide_border=true" width="100%"></div>---
 
-<sub>Feito com dedicação e criatividade.</sub>
+"08 // ACHIEVEMENTS"
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thauanneluna&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1"></div>---
+
+"09 // CONTRIBUTION SNAKE"
+
+<div align="center"><img src="https://raw.githubusercontent.com/thauanneluna/thauanneluna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"></div>---
+
+"10 // CONNECT"
+
+<div align="center"><a href="mailto:luna.thauannedesign@gmail.com"><img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=F5B7D2"></a><a href="https://www.linkedin.com/in/thauanneluna-designer/"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=F5B7D2"></a><a href="https://thauanneluna.github.io/PortflioThauanne/"><img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=F5B7D2"></a></div>---
+
+<div align="center">┌──────────────────────────────────────────────────────┐
+│                                                      │
+│        CREATIVITY IS THE INTERFACE.                  │
+│        TECHNOLOGY IS THE ENGINE.                     │
+│        IDEAS ARE THE SYSTEM.                         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,30,33">"THAUANNE LUNA // 2026"
+
+<sub>Designed & developed with creativity, curiosity and code.</sub>
 
 </div>
