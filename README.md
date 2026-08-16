@@ -97,23 +97,16 @@ Projeto conceitual inspirado na série para estudos e experimentações envolven
 
 🎯 Objetivos atuais
 
-┌──────────────────────────────────────────────┐
-│              CURRENT OBJECTIVES              │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [→] Evoluir no desenvolvimento Front-end   │
-│  [→] Aprimorar UI/UX                         │
-│  [→] Desenvolver projetos reais              │
-│  [→] Expandir a Thau Luna Studio             │
-│  [→] Construir um portfólio profissional     │
-│  [→] Aprender novas tecnologias              │
-│                                              │
-│  STATUS :: IN PROGRESS                       │
-└──────────────────────────────────────────────┘
+- Desenvolver cada vez mais minhas habilidades em Front-end
+- Aprimorar meus conhecimentos em UI/UX
+- Criar projetos reais para meu portfólio
+- Expandir a Thau Luna Studio
+- Continuar evoluindo em Design e Tecnologia
+- Aprender novas ferramentas e tecnologias
 
 ---
 
-📊 GitHub Stats
+📊 Estatísticas do GitHub
 
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thauanneluna&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=E9A8C9&icon_color=E9A8C9&text_color=FFFFFF"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanneluna&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=E9A8C9&text_color=FFFFFF"/></div>---
 
@@ -125,11 +118,11 @@ Projeto conceitual inspirado na série para estudos e experimentações envolven
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thauanneluna&bg_color=00000000&color=E9A8C9&line=E9A8C9&point=FFFFFF&area=true&hide_border=true" width="100%"/></div>---
 
-🏆 GitHub Trophies
+🏆 Troféus do GitHub
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thauanneluna&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1"/></div>---
 
-🐍 Contribution Snake
+🐍 Contribuições
 
 <div align="center"><img src="https://raw.githubusercontent.com/thauanneluna/thauanneluna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
 
