@@ -159,6 +159,8 @@ O projeto faz parte da minha busca por criar experiências digitais que sejam ma
 - 🧩 Interatividade
 - 📚 Experiência digital
 
+🌐 **Projeto:**  
+https://thauanneluna.github.io/Lunas_Library/
 ---
 
 ## 🐺 Teen Wolf — Beacon Hills
