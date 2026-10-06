@@ -159,9 +159,11 @@ O projeto faz parte da minha busca por criar experiências digitais que sejam ma
 - 🧩 Interatividade
 - 📚 Experiência digital
 
-🌐 **Projeto:**
+🌐 **Site:**
+https://thauanneluna.github.io/Lunas_Library/
 
-[https://thauanneluna.github.io/Lunas_Library/](https://thauanneluna.github.io/Lunas_Library/)
+📸 **Instagram:**  
+https://www.instagram.com/lunaslibraryapp
 
 ---
 
