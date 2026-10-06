@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=E9A8C9&center=true&vCenter=true&width=700&lines=Designer+Gr%C3%A1fica+em+forma%C3%A7%C3%A3o;Desenvolvedora+Front-end;Design+%2B+Tecnologia+%2B+Criatividade;Transformando+ideias+em+experi%C3%AAncias+digitais." alt="Typing Animation"/>
 
+<img src="./logo-tl.png" width="120" alt="TL Logo">
+
 </div>
 
 ---
