@@ -103,7 +103,7 @@ LEARNING    → evoluir continuamente
 
 **Meu universo criativo físico e digital.**
 
-A **Thau Luna Studio** nasceu a partir da Thau Luna Acessórios e evoluiu para um Studio que reúne **produtos personalizados, presentes, experiências e serviços criativos**.
+A **Thau Luna Studio** nasceu a partir da Thau Luna Acessórios e evoluiu para um Studio que reúne **produtos personalizados, presentes, experiências e serviços criativos**, conectando o universo físico ao digital.
 
 ### 🎀 Universo Físico
 
@@ -152,19 +152,18 @@ O projeto faz parte da minha busca por criar experiências digitais que sejam ma
 ### ✦ Conceitos explorados
 
 - 📖 Literatura
-- 🎨 Direção visual
+- 🎨 Direção Visual
 - 🌙 Atmosfera
 - ✨ Storytelling
 - 💻 Front-end
 - 🧩 Interatividade
-- 📚 Experiência digital
+- 📚 Experiência Digital
 
-🌐 **Site:**
+🌐 **Site:**  
 https://thauanneluna.github.io/Lunas_Library/
 
 📸 **Instagram:**  
 https://www.instagram.com/lunaslibraryapp
-
 ---
 
 ## 🐺 Teen Wolf — Beacon Hills
