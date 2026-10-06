@@ -105,12 +105,6 @@ LEARNING    → evoluir continuamente
 
 ## 🌸 Thau Luna Studio
 
-<div align="center">
-
-<img src="logo-tl.png" width="120" alt="TL Logo">
-
-</div>
-
 **Meu universo criativo físico e digital.**
 
 A **Thau Luna Studio** nasceu a partir da Thau Luna Acessórios e evoluiu para um Studio que reúne **produtos personalizados, presentes, experiências e serviços criativos**.
